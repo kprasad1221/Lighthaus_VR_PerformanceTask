@@ -1,8 +1,8 @@
-#Cell Path Creator
+# Cell Path Creator
 
 Tool for animating 3d model of cell along a series of paths
 
-##Usage
+## Usage
 
 Add the desired number of Cell prefabs to the scene. Customize the cell's color
 and rotation in the inspector
@@ -14,7 +14,7 @@ A Cell can have any number of paths. Each Cell should have its own set of
 unique CellPaths with separate transforms so that the Cells are not animated
 directly on top of each other.
 
-###Credits
+### Credits
 
 Cubic bezier formula adapted courtesy of 
 https://en.wikipedia.org/wiki/B%C3%A9zier_curve#Cubic_B%C3%A9zier_curves
